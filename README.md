@@ -1,6 +1,6 @@
 # app-dev
 **My first repository**
-*My Favorite Movies*
+## *My Favorite Movies*
 1. Barbie
 2. Chapiee
 3. Lorax
